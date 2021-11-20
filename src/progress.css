@@ -1,0 +1,10 @@
+.studentMarksContainer{
+    display: flex;
+    width: 43%;
+    justify-content: center;
+    flex-direction: column;
+}
+.totalContainer{
+    width: 100vw;
+    margin-top: 106px;
+}
